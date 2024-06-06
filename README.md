@@ -6,7 +6,7 @@
 -   I am looking for a challenging and rewarding opportunity where I can leverage my skills and contribute to the growth and success of the organization.
 - 🌱 I’m currently learning different evolving technologies like Typescript etc.
 - 💞️ I’m looking to collaborate on full stack web projects.
-- 📫 You can reach me using my mail-id :- s14Ashishkumar677@gmail.com
+- 📫 You can reach me using my mail-id :- cs14Ashishkumar677@gmail.com
 
 <!---
 AashishKumar78009/AashishKumar78009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
