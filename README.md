@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning different evolving technologies like Typescript etc.
 - 💞️ I’m looking to collaborate on full stack web projects.
 - 📫 You can reach me using my mail-id :- cs14Ashishkumar677@gmail.com
+- My Projects are private so they may not be visible to you.
+- If you are a employer kindly contact me through my email for more information on my repo Collection.
 
 <!---
 AashishKumar78009/AashishKumar78009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
